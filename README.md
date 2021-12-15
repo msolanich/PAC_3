@@ -1,11 +1,8 @@
-# PAC_3
+# PAC_3: CO2 emissions from fossil fuels
 
-
-
-<div class="flourish-embed" data-src="story/1068582"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
-
----
-
+### Visualització:
 https://public.flourish.studio/story/1068582/
+
+
+### Dades: 
+https://ourworldindata.org/co2-emissions
